@@ -39,14 +39,13 @@ yes i was procrastinating what gave it away
 
 I solve problems by building tools, which then become new problems. It’s a cycle. I’ve made peace with it.
 
-I also have a habit of making things look nice. This usually means spending three hours adjusting a button by two pixels. Productive, I know.
+I also have a habit of making things look nice. This usually means spending three hours adjusting a button by two pixels. <be>
+Productive, I know.
 
 It's all part of the learning curve (I think).
 
-
-
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE3ZWY4dzl6OGdoNGtrYmg3Y3RnY3I1ZngzeDd6NTFjbTZ3MHF0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+<div align="left">
+  <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE3ZWY4dzl6OGdoNGtrYmg3Y3RnY3I1ZngzeDd6NTFjbTZ3MHF0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 </div>
 
 <!--
