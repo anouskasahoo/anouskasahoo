@@ -37,7 +37,7 @@ yes i was procrastinating what gave it away
 
 ### Hello. 
 
-I'm a 3rd-year Computer Science and Design student. I solve problems by building tools, which then become new problems. It’s a cycle. I’ve made peace with it.
+I solve problems by building tools, which then become new problems. It’s a cycle. I’ve made peace with it.
 
 I also have a habit of making things look nice. This usually means spending three hours adjusting a button by two pixels. Productive, I know.
 
