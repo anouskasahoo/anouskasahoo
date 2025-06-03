@@ -35,7 +35,7 @@
 yes i was procrastinating what gave it away
 ```
 
-### Hello. 
+### Hello
 
 I solve problems by building tools, which then become new problems. It’s a cycle. I’ve made peace with it.
 
